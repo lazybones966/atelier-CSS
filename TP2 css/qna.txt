@@ -1,0 +1,5 @@
+Question A :
+la taille sera large , couleur rouge , gras
+car le classe c1 a un taille de texte large come proprietes , et c2 avec un graisse gras 
+Question B:
+ non le rendu du texte ne change pas , l'ordre physique des classes dans la balise class=" c1 c2" n'a aucune importance
